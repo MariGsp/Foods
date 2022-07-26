@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Foods</string>
+
+    <string name="bread">Bread</string>
+    <string name="cookie">Cookie</string>
+    <string name="macarons">Macarons</string>
+    <string name="pancakes">Pancakes</string>
+    <string name="pasta">Pasta</string>
+    <string name="salmon">Salmon</string>
+    <string name="strawberry_dessert">Strawberry dessert</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="action_switch_layout">Switch Layout</string>
+
+</resources>
